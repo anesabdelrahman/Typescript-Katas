@@ -1,0 +1,1 @@
+This is a FizzBuzz kata. Requireements are from https://codingdojo.org/kata/FizzBuzz/ 
